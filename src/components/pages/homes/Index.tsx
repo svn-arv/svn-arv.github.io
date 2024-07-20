@@ -11,7 +11,7 @@ const HomeIndex: React.FC = () => {
   return (
     <>
       <Container className="hero d-flex">
-        <Row className="col h-50 my-auto frosted-glass">
+        <Row className="col h-min-50 py-4 my-auto frosted-glass">
           <Col className="d-flex text-light flex-column flex-wrap text-center justify-content-center align-content-center">
             <h2>Hello, I'm Sevian</h2>
             <h3>A Software Engineer</h3>
